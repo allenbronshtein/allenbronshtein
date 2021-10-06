@@ -1,7 +1,4 @@
 Hi I'm Allen Bronshtein 👋
- 
- 
-👨🏻‍💻 About Me
 
 🌱 I’m currently Developing a WEB app with python, node.js and React.js .
 
