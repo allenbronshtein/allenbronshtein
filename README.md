@@ -6,4 +6,4 @@
 
 I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
 
-Check out the project im working on :
+Check out the new project im working on :
