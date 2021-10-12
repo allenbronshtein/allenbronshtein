@@ -5,3 +5,5 @@
 🥅 2021 Goals: Contribute to an Open Source project.
 
 I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
+
+Check out the project im working on :
